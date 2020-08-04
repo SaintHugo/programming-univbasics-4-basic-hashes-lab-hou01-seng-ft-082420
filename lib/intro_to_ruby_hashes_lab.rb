@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-{;goat => "Mac Miller"}  # return a valid hash with any key/value pair of your choice
+{:goat => "Mac Miller"}  # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
